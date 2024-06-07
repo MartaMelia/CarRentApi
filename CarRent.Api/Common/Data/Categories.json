@@ -1,0 +1,730 @@
+﻿[
+  {
+    "Value": "Georgia",
+    "Type": 0,
+    "Children": [
+      {
+        "Value": "Tbilisi",
+        "Type": 1
+      },
+      {
+        "Value": "Batumi",
+        "Type": 1
+      },
+      {
+        "Value": "Kutaisi",
+        "Type": 1
+      },
+      {
+        "Value": "Rustavi",
+        "Type": 1
+      },
+      {
+        "Value": "Gori",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Value": "Audi",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "A6",
+        "Type": 3
+      },
+      {
+        "Value": "A6 Allroad",
+        "Type": 3
+      },
+      {
+        "Value": "R8",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Seat",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Alhambra",
+        "Type": 3
+      },
+      {
+        "Value": "Cordoba",
+        "Type": 3
+      },
+      {
+        "Value": "Ibiza",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Renault",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Captur",
+        "Type": 3
+      },
+      {
+        "Value": "Espace",
+        "Type": 3
+      },
+      {
+        "Value": "Laguna",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Peugeot",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "205",
+        "Type": 3
+      },
+      {
+        "Value": "309",
+        "Type": 3
+      },
+      {
+        "Value": "807",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Dacia",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Dokker",
+        "Type": 3
+      },
+      {
+        "Value": "Duster",
+        "Type": 3
+      },
+      {
+        "Value": "Lodgy",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Citroën",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Berlingo",
+        "Type": 3
+      },
+      {
+        "Value": "C1",
+        "Type": 3
+      },
+      {
+        "Value": "Nemo",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Opel",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Agila",
+        "Type": 3
+      },
+      {
+        "Value": "Calibra",
+        "Type": 3
+      },
+      {
+        "Value": "Zafira",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Alfa Romeo",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "GTV",
+        "Type": 3
+      },
+      {
+        "Value": "MiTo",
+        "Type": 3
+      },
+      {
+        "Value": "Crosswagon",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Škoda",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Favorit",
+        "Type": 3
+      },
+      {
+        "Value": "Octavia",
+        "Type": 3
+      },
+      {
+        "Value": "Superb",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Chevrolet",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Camaro",
+        "Type": 3
+      },
+      {
+        "Value": "Cruze",
+        "Type": 3
+      },
+      {
+        "Value": "Malibu",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Porsche",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "924",
+        "Type": 3
+      },
+      {
+        "Value": "Cayenne",
+        "Type": 3
+      },
+      {
+        "Value": "Panamera",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Honda",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Accord",
+        "Type": 3
+      },
+      {
+        "Value": "Civic",
+        "Type": 3
+      },
+      {
+        "Value": "Legend",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Subaru",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Forester",
+        "Type": 3
+      },
+      {
+        "Value": "Outback",
+        "Type": 3
+      },
+      {
+        "Value": "Tribeca",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Mazda",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "CX-3",
+        "Type": 3
+      },
+      {
+        "Value": "CX-5",
+        "Type": 3
+      },
+      {
+        "Value": "CX-9",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Mitsubishi",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Eclipse",
+        "Type": 3
+      },
+      {
+        "Value": "Grandis",
+        "Type": 3
+      },
+      {
+        "Value": "Pajero",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Lexus",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "CT",
+        "Type": 3
+      },
+      {
+        "Value": "LX",
+        "Type": 3
+      },
+      {
+        "Value": "RX",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Toyota",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Camry",
+        "Type": 3
+      },
+      {
+        "Value": "Corolla",
+        "Type": 3
+      },
+      {
+        "Value": "RAV4",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "BMW",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "M3",
+        "Type": 3
+      },
+      {
+        "Value": "X3",
+        "Type": 3
+      },
+      {
+        "Value": "X6",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Volkswagen",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Beetle",
+        "Type": 3
+      },
+      {
+        "Value": "Jetta",
+        "Type": 3
+      },
+      {
+        "Value": "Passat",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Suzuki",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Alto",
+        "Type": 3
+      },
+      {
+        "Value": "Samurai",
+        "Type": 3
+      },
+      {
+        "Value": "Swift",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Mercedes-Benz",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "CLS",
+        "Type": 3
+      },
+      {
+        "Value": "GLE",
+        "Type": 3
+      },
+      {
+        "Value": "S",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Saab",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "9-3",
+        "Type": 3
+      },
+      {
+        "Value": "900",
+        "Type": 3
+      },
+      {
+        "Value": "9000",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Kia",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Avella",
+        "Type": 3
+      },
+      {
+        "Value": "Rio",
+        "Type": 3
+      },
+      {
+        "Value": "Sorento",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Land Rover",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Discovery",
+        "Type": 3
+      },
+      {
+        "Value": "Freelander",
+        "Type": 3
+      },
+      {
+        "Value": "Range Rover",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Dodge",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Avenger",
+        "Type": 3
+      },
+      {
+        "Value": "Challenger",
+        "Type": 3
+      },
+      {
+        "Value": "Nitro",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Chrysler",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "LHS",
+        "Type": 3
+      },
+      {
+        "Value": "Neon",
+        "Type": 3
+      },
+      {
+        "Value": "Pacifica",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Ford",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Escort",
+        "Type": 3
+      },
+      {
+        "Value": "Focus",
+        "Type": 3
+      },
+      {
+        "Value": "Sierra",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Hummer",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "H1",
+        "Type": 3
+      },
+      {
+        "Value": "H2",
+        "Type": 3
+      },
+      {
+        "Value": "H3",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Hyundai",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Accent",
+        "Type": 3
+      },
+      {
+        "Value": "Elantra",
+        "Type": 3
+      },
+      {
+        "Value": "Sonata",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Infiniti",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "EX",
+        "Type": 3
+      },
+      {
+        "Value": "FX",
+        "Type": 3
+      },
+      {
+        "Value": "G",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Jaguar",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Daimler",
+        "Type": 3
+      },
+      {
+        "Value": "XE",
+        "Type": 3
+      },
+      {
+        "Value": "XK",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Jeep",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Cherokee",
+        "Type": 3
+      },
+      {
+        "Value": "Renegade",
+        "Type": 3
+      },
+      {
+        "Value": "Wrangler",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Nissan",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Almera",
+        "Type": 3
+      },
+      {
+        "Value": "GT-R",
+        "Type": 3
+      },
+      {
+        "Value": "Juke",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Volvo",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "240",
+        "Type": 3
+      },
+      {
+        "Value": "C70",
+        "Type": 3
+      },
+      {
+        "Value": "V90",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Daewoo",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Espero",
+        "Type": 3
+      },
+      {
+        "Value": "Matiz",
+        "Type": 3
+      },
+      {
+        "Value": "Tacuma",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Fiat",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Coupé",
+        "Type": 3
+      },
+      {
+        "Value": "Ducato",
+        "Type": 3
+      },
+      {
+        "Value": "Stilo",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "MINI",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Cooper",
+        "Type": 3
+      },
+      {
+        "Value": "Countryman",
+        "Type": 3
+      },
+      {
+        "Value": "One D",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Rover",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "200",
+        "Type": 3
+      },
+      {
+        "Value": "414",
+        "Type": 3
+      },
+      {
+        "Value": "620",
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Value": "Smart",
+    "Type": 2,
+    "Children": [
+      {
+        "Value": "Cabrio",
+        "Type": 3
+      },
+      {
+        "Value": "Forfour",
+        "Type": 3
+      },
+      {
+        "Value": "Roadster",
+        "Type": 3
+      }
+    ]
+  }
+]
